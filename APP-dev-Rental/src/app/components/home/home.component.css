@@ -1,0 +1,42 @@
+.BannerCont{
+    height: 500px;
+    width: 100%;
+    background-image: url(/assets/img/bannerImg1.jpg);
+    background-position:bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.BannerImg2{
+    height: 500px;
+    width: 100%;
+    background-image: url(/assets/img/bannerImg2.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+.BannerImg3{
+    height: 500px;
+    width: 100%;
+    background-image: url(/assets/img/bannerImg3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#subContent{
+    background-color: rgb(233, 230, 217 );
+    font-size: large;
+    height: 200px;
+    text-align: center;
+}
+
+#subContent button{
+    height: 100%;
+}
+.row .col-md-4{
+    height: 100%;
+    padding:0;
+}
+

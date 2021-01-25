@@ -6507,7 +6507,7 @@
  }
  
  .carousel-fade .carousel-item {
-   opacity: 0;
+   opacity: 0.90;
    transition-property: opacity;
    -webkit-transform: none;
    transform: none;
