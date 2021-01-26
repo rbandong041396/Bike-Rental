@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "APP-dev-Rental"
+  "defaultProject": "APP-dev-Rental",
+  "cli": {
+    "analytics": false
+  }
 }
