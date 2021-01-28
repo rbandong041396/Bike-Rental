@@ -1,0 +1,19 @@
+.findBanner{
+    background-image: url(/assets/img/findBannerPic.jpg);
+    height: 200px;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.findBannerTxt{
+    height: 20%;
+    background-color: rgb(12, 12, 12, 0.5);
+    margin: auto;
+}
+.findBannerTxt h1{
+    margin-left: 20%;
+}
+.findBannerSpace{
+    height: 80%;
+}
